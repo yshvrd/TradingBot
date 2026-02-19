@@ -50,6 +50,7 @@ python cli.py --symbol BTCUSDT --side BUY --type MARKET --quantity 0.003
 python cli.py --symbol BTCUSDT --side BUY --type LIMIT --quantity 0.005 --price 30000
 ```
 
+
 3. Interactive menu
 ```bash
 python cli.py
@@ -66,4 +67,14 @@ The log file includes:
 
 
 ## Screenshots 
+
+<img width="1090" height="367" alt="Screenshot 2026-02-19 at 11 19 11 PM" src="https://github.com/user-attachments/assets/2641e46b-0e32-4db9-a107-b3f0ebd0634f" />
+
+<br>
+
+<img width="1090" height="377" alt="Screenshot 2026-02-19 at 11 19 31 PM" src="https://github.com/user-attachments/assets/fa10289e-b9d2-458d-917e-f36af9110eef" />
+
+<br>
+
+<img width="1090" height="458" alt="Screenshot 2026-02-19 at 11 31 37 PM" src="https://github.com/user-attachments/assets/a1ccb4ad-dfc5-4c92-a42b-280a4cea9943" />
 
